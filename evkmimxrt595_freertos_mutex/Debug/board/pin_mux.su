@@ -1,0 +1,3 @@
+/Users/148865/Documents/MCUXpressoIDE_11.6.1_8255/workspace/evkmimxrt595_freertos_mutex/drivers/fsl_iopctl.h:88:22:IOPCTL_PinMuxSet	24	static
+../board/pin_mux.c:37:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:61:6:BOARD_InitPins	16	static

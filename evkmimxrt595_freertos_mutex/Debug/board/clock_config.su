@@ -1,0 +1,5 @@
+/Users/148865/Documents/MCUXpressoIDE_11.6.1_8255/workspace/evkmimxrt595_freertos_mutex/drivers/fsl_clock.h:1358:20:CLOCK_SetXtalFreq	16	static
+../board/clock_config.c:56:28:BOARD_FlexspiClockSafeConfig	4	static
+../board/clock_config.c:70:28:BOARD_SetFlexspiClock	24	static
+../board/clock_config.c:99:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:189:6:BOARD_BootClockRUN	8	static

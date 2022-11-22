@@ -1,0 +1,14 @@
+/Users/148865/Documents/MCUXpressoIDE_11.6.1_8255/workspace/evkmimxrt595_freertos_mutex/drivers/fsl_flexspi.h:419:20:FLEXSPI_SoftwareReset	16	static
+../board/board.c:363:6:BOARD_SetFlexspiClock	24	static
+../board/board.c:293:6:BOARD_DeinitFlash	16	static
+../board/board.c:309:6:BOARD_InitFlash	32	static
+../board/board.c:431:6:BOARD_SetDeepSleepPinConfig	4	static
+../board/board.c:468:6:BOARD_RestoreDeepSleepPinConfig	4	static
+../board/board.c:487:6:BOARD_EnterDeepSleep	16	static
+../board/board.c:494:6:BOARD_EnterDeepPowerDown	16	static
+../board/board.c:44:6:BOARD_InitDebugConsole	16	static
+../board/board.c:57:17:flexspi_hyper_ram_write_mcr	48	static
+../board/board.c:76:17:flexspi_hyper_ram_get_mcr	48	static
+../board/board.c:95:17:flexspi_hyper_ram_reset	40	static
+../board/board.c:121:10:BOARD_InitPsRam	416	static
+../board/board.c:423:6:BOARD_FlexspiClockSafeConfig	8	static

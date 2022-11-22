@@ -1,0 +1,14 @@
+../drivers/fsl_clock.h:1098:20:CLOCK_EnableClock	24	static
+../drivers/fsl_cache.c:52:10:CACHE64_GetInstance	24	static
+../drivers/fsl_cache.c:76:10:CACHE64_GetInstanceByAddr	24	static
+../drivers/fsl_cache.c:102:10:CACHE64_Init	32	static
+../drivers/fsl_cache.c:142:6:CACHE64_GetDefaultConfig	16	static
+../drivers/fsl_cache.c:155:6:CACHE64_EnableCache	16	static
+../drivers/fsl_cache.c:168:6:CACHE64_DisableCache	16	static
+../drivers/fsl_cache.c:181:6:CACHE64_InvalidateCache	16	static
+../drivers/fsl_cache.c:205:6:CACHE64_InvalidateCacheByRange	40	static
+../drivers/fsl_cache.c:244:6:CACHE64_CleanCache	16	static
+../drivers/fsl_cache.c:268:6:CACHE64_CleanCacheByRange	40	static
+../drivers/fsl_cache.c:307:6:CACHE64_CleanInvalidateCache	16	static
+../drivers/fsl_cache.c:333:6:CACHE64_CleanInvalidateCacheByRange	40	static
+../drivers/fsl_cache.c:372:6:CACHE64_EnableWriteBuffer	16	static
